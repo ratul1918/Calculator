@@ -2,7 +2,7 @@
 
 A simple, intuitive calculator application built using **Java Swing**. This desktop GUI calculator supports basic arithmetic operations including addition, subtraction, multiplication, and division. It also features a decimal input, clear, delete, and negative toggle functionality.
 
-## Features
+## Features:
 
 - Basic arithmetic: `+`, `-`, `×`, `÷`
 - Decimal point support
