@@ -11,7 +11,7 @@ A simple, intuitive calculator application built using **Java Swing**. This desk
 - Clear all input
 - Clean and responsive GUI layout using `JPanel` and `GridLayout`
 
-## Technologies Used
+## Technologies Used 
 
 - **Java SE**
 - **Swing** (for GUI components)
