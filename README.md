@@ -4,7 +4,7 @@ A simple, intuitive calculator application built using **Java Swing**. This desk
 
 ## Features
 
-- Basic arithmetic: `+`, `-`, `×`, `÷`
+- Basic arithmetic: `+`, `-`, `×`, `÷` 
 - Decimal point support
 - Toggle negative numbers
 - Delete last character
