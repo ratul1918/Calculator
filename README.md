@@ -9,7 +9,7 @@ A simple, intuitive calculator application built using **Java Swing**. This desk
 - Toggle negative numbers
 - Delete last character
 - Clear all input
-- Clean and responsive GUI layout using `JPanel` and `GridLayout`
+- Clean and responsive GUI layout using `JPanel` and `GridLayout` 
 
 ## Technologies Used 
 
